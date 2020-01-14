@@ -1,10 +1,10 @@
 CC = g++
-OPT = -O3
+# OPT = -O3
 OPT = -g
 WARN = -Wall
 ERR = -Werror
 
-CFLAGS = $(OPT) $(WARN) $(ERR) $(INC) $(LIB)
+CFLAGS = $(OPT) $(WARN) $(ERR) $(INC) $(LIB) -std=c++11
 
 SIM_SRC = main.cc cache.cc
 

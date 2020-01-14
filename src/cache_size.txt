@@ -1,0 +1,756 @@
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 262144
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5775
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.67%
+06. number of writebacks:			254
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6745
+09. number of interventions:			68
+10. number of invalidations:			2014
+11. number of flushes:				113
+12. number of BusRdX:				716
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5805
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.77%
+06. number of writebacks:			235
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6740
+09. number of interventions:			47
+10. number of invalidations:			2034
+11. number of flushes:				92
+12. number of BusRdX:				700
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5771
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.57%
+06. number of writebacks:			278
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6774
+09. number of interventions:			81
+10. number of invalidations:			2008
+11. number of flushes:				120
+12. number of BusRdX:				725
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5813
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.66%
+06. number of writebacks:			234
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6761
+09. number of interventions:			63
+10. number of invalidations:			2020
+11. number of flushes:				88
+12. number of BusRdX:				714
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 524288
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5757
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			190
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6663
+09. number of interventions:			71
+10. number of invalidations:			2014
+11. number of flushes:				116
+12. number of BusRdX:				716
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5792
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.76%
+06. number of writebacks:			170
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6662
+09. number of interventions:			47
+10. number of invalidations:			2034
+11. number of flushes:				92
+12. number of BusRdX:				700
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5756
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.55%
+06. number of writebacks:			205
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6686
+09. number of interventions:			82
+10. number of invalidations:			2008
+11. number of flushes:				121
+12. number of BusRdX:				725
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5796
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			171
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6681
+09. number of interventions:			63
+10. number of invalidations:			2020
+11. number of flushes:				88
+12. number of BusRdX:				714
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5752
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			170
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6638
+09. number of interventions:			71
+10. number of invalidations:			2014
+11. number of flushes:				116
+12. number of BusRdX:				716
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5781
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.75%
+06. number of writebacks:			155
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6636
+09. number of interventions:			48
+10. number of invalidations:			2034
+11. number of flushes:				93
+12. number of BusRdX:				700
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5752
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.55%
+06. number of writebacks:			186
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6663
+09. number of interventions:			82
+10. number of invalidations:			2008
+11. number of flushes:				121
+12. number of BusRdX:				725
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5790
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.64%
+06. number of writebacks:			157
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6661
+09. number of interventions:			64
+10. number of invalidations:			2020
+11. number of flushes:				89
+12. number of BusRdX:				714
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 2097152
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MSI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5750
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			166
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6632
+09. number of interventions:			71
+10. number of invalidations:			2014
+11. number of flushes:				116
+12. number of BusRdX:				716
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5779
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.75%
+06. number of writebacks:			143
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6622
+09. number of interventions:			48
+10. number of invalidations:			2034
+11. number of flushes:				93
+12. number of BusRdX:				700
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5751
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.55%
+06. number of writebacks:			176
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6652
+09. number of interventions:			82
+10. number of invalidations:			2008
+11. number of flushes:				121
+12. number of BusRdX:				725
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5789
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.64%
+06. number of writebacks:			152
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		6655
+09. number of interventions:			64
+10. number of invalidations:			2020
+11. number of flushes:				89
+12. number of BusRdX:				714
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 262144
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5775
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.67%
+06. number of writebacks:			254
+07. number of cache-to-cache transfers:		4405
+08. number of memory transactions:		1663
+09. number of interventions:			1468
+10. number of invalidations:			2014
+11. number of flushes:				113
+12. number of BusRdX:				39
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5805
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.77%
+06. number of writebacks:			235
+07. number of cache-to-cache transfers:		4441
+08. number of memory transactions:		1640
+09. number of interventions:			1432
+10. number of invalidations:			2034
+11. number of flushes:				92
+12. number of BusRdX:				41
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5771
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.57%
+06. number of writebacks:			278
+07. number of cache-to-cache transfers:		4406
+08. number of memory transactions:		1685
+09. number of interventions:			1469
+10. number of invalidations:			2008
+11. number of flushes:				120
+12. number of BusRdX:				42
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5813
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.66%
+06. number of writebacks:			234
+07. number of cache-to-cache transfers:		4411
+08. number of memory transactions:		1675
+09. number of interventions:			1479
+10. number of invalidations:			2020
+11. number of flushes:				88
+12. number of BusRdX:				39
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 524288
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5757
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			190
+07. number of cache-to-cache transfers:		4392
+08. number of memory transactions:		1594
+09. number of interventions:			1466
+10. number of invalidations:			2014
+11. number of flushes:				116
+12. number of BusRdX:				39
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5792
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.76%
+06. number of writebacks:			170
+07. number of cache-to-cache transfers:		4431
+08. number of memory transactions:		1572
+09. number of interventions:			1429
+10. number of invalidations:			2034
+11. number of flushes:				92
+12. number of BusRdX:				41
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5756
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.55%
+06. number of writebacks:			205
+07. number of cache-to-cache transfers:		4396
+08. number of memory transactions:		1607
+09. number of interventions:			1465
+10. number of invalidations:			2008
+11. number of flushes:				121
+12. number of BusRdX:				42
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5796
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			171
+07. number of cache-to-cache transfers:		4400
+08. number of memory transactions:		1606
+09. number of interventions:			1474
+10. number of invalidations:			2020
+11. number of flushes:				88
+12. number of BusRdX:				39
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5752
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			170
+07. number of cache-to-cache transfers:		4389
+08. number of memory transactions:		1572
+09. number of interventions:			1464
+10. number of invalidations:			2014
+11. number of flushes:				116
+12. number of BusRdX:				39
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5781
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.75%
+06. number of writebacks:			155
+07. number of cache-to-cache transfers:		4422
+08. number of memory transactions:		1555
+09. number of interventions:			1428
+10. number of invalidations:			2034
+11. number of flushes:				93
+12. number of BusRdX:				41
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5752
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.55%
+06. number of writebacks:			186
+07. number of cache-to-cache transfers:		4393
+08. number of memory transactions:		1587
+09. number of interventions:			1464
+10. number of invalidations:			2008
+11. number of flushes:				121
+12. number of BusRdX:				42
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5790
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.64%
+06. number of writebacks:			157
+07. number of cache-to-cache transfers:		4395
+08. number of memory transactions:		1591
+09. number of interventions:			1474
+10. number of invalidations:			2020
+11. number of flushes:				89
+12. number of BusRdX:				39
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 2097152
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: MESI
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5750
+03. number of writes:				11942
+04. number of write misses:			39
+05. total miss rate:				4.65%
+06. number of writebacks:			166
+07. number of cache-to-cache transfers:		4387
+08. number of memory transactions:		1568
+09. number of interventions:			1464
+10. number of invalidations:			2014
+11. number of flushes:				116
+12. number of BusRdX:				39
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5779
+03. number of writes:				11710
+04. number of write misses:			41
+05. total miss rate:				4.75%
+06. number of writebacks:			143
+07. number of cache-to-cache transfers:		4420
+08. number of memory transactions:		1543
+09. number of interventions:			1428
+10. number of invalidations:			2034
+11. number of flushes:				93
+12. number of BusRdX:				41
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5751
+03. number of writes:				12383
+04. number of write misses:			42
+05. total miss rate:				4.55%
+06. number of writebacks:			176
+07. number of cache-to-cache transfers:		4392
+08. number of memory transactions:		1577
+09. number of interventions:			1464
+10. number of invalidations:			2008
+11. number of flushes:				121
+12. number of BusRdX:				42
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5789
+03. number of writes:				12108
+04. number of write misses:			39
+05. total miss rate:				4.64%
+06. number of writebacks:			152
+07. number of cache-to-cache transfers:		4394
+08. number of memory transactions:		1586
+09. number of interventions:			1474
+10. number of invalidations:			2020
+11. number of flushes:				89
+12. number of BusRdX:				39
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 262144
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5635
+03. number of writes:				11942
+04. number of write misses:			3
+05. total miss rate:				4.52%
+06. number of writebacks:			226
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5864
+09. number of interventions:			1405
+10. number of invalidations:			0
+11. number of flushes:				3
+12. number of BusRdX:				0
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5646
+03. number of writes:				11710
+04. number of write misses:			2
+05. total miss rate:				4.61%
+06. number of writebacks:			243
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5891
+09. number of interventions:			1396
+10. number of invalidations:			0
+11. number of flushes:				9
+12. number of BusRdX:				0
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5644
+03. number of writes:				12383
+04. number of write misses:			2
+05. total miss rate:				4.43%
+06. number of writebacks:			232
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5878
+09. number of interventions:			1398
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5652
+03. number of writes:				12108
+04. number of write misses:			0
+05. total miss rate:				4.50%
+06. number of writebacks:			234
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5886
+09. number of interventions:			1430
+10. number of invalidations:			0
+11. number of flushes:				9
+12. number of BusRdX:				0
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 524288
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5601
+03. number of writes:				11942
+04. number of write misses:			3
+05. total miss rate:				4.50%
+06. number of writebacks:			128
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5732
+09. number of interventions:			1400
+10. number of invalidations:			0
+11. number of flushes:				3
+12. number of BusRdX:				0
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5610
+03. number of writes:				11710
+04. number of write misses:			2
+05. total miss rate:				4.58%
+06. number of writebacks:			127
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5739
+09. number of interventions:			1388
+10. number of invalidations:			0
+11. number of flushes:				9
+12. number of BusRdX:				0
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5610
+03. number of writes:				12383
+04. number of write misses:			2
+05. total miss rate:				4.41%
+06. number of writebacks:			135
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5747
+09. number of interventions:			1389
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5617
+03. number of writes:				12108
+04. number of write misses:			0
+05. total miss rate:				4.47%
+06. number of writebacks:			141
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5758
+09. number of interventions:			1418
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 1048576
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5595
+03. number of writes:				11942
+04. number of write misses:			3
+05. total miss rate:				4.49%
+06. number of writebacks:			107
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5705
+09. number of interventions:			1398
+10. number of invalidations:			0
+11. number of flushes:				3
+12. number of BusRdX:				0
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5604
+03. number of writes:				11710
+04. number of write misses:			2
+05. total miss rate:				4.57%
+06. number of writebacks:			110
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5716
+09. number of interventions:			1387
+10. number of invalidations:			0
+11. number of flushes:				9
+12. number of BusRdX:				0
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5604
+03. number of writes:				12383
+04. number of write misses:			2
+05. total miss rate:				4.40%
+06. number of writebacks:			105
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5711
+09. number of interventions:			1387
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5611
+03. number of writes:				12108
+04. number of write misses:			0
+05. total miss rate:				4.47%
+06. number of writebacks:			123
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5734
+09. number of interventions:			1417
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
+===== 506 Personal information =====
+Bibin Kurian George
+bkgeorge
+ECE492 Students? NO
+===== 506 SMP Simulator configuration =====
+L1_SIZE: 2097152
+L1_ASSOC: 8
+L1_BLOCKSIZE: 64
+NUMBER OF PROCESSORS: 4
+COHERENCE PROTOCOL: Dragon
+TRACE FILE: trace/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads:				112661
+02. number of read misses:			5591
+03. number of writes:				11942
+04. number of write misses:			3
+05. total miss rate:				4.49%
+06. number of writebacks:			102
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5696
+09. number of interventions:			1396
+10. number of invalidations:			0
+11. number of flushes:				3
+12. number of BusRdX:				0
+============ Simulation results (Cache 1) ============
+01. number of reads:				110830
+02. number of read misses:			5603
+03. number of writes:				11710
+04. number of write misses:			2
+05. total miss rate:				4.57%
+06. number of writebacks:			105
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5710
+09. number of interventions:			1387
+10. number of invalidations:			0
+11. number of flushes:				9
+12. number of BusRdX:				0
+============ Simulation results (Cache 2) ============
+01. number of reads:				114938
+02. number of read misses:			5601
+03. number of writes:				12383
+04. number of write misses:			2
+05. total miss rate:				4.40%
+06. number of writebacks:			98
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5701
+09. number of interventions:			1387
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
+============ Simulation results (Cache 3) ============
+01. number of reads:				113428
+02. number of read misses:			5608
+03. number of writes:				12108
+04. number of write misses:			0
+05. total miss rate:				4.47%
+06. number of writebacks:			121
+07. number of cache-to-cache transfers:		0
+08. number of memory transactions:		5729
+09. number of interventions:			1416
+10. number of invalidations:			0
+11. number of flushes:				6
+12. number of BusRdX:				0
